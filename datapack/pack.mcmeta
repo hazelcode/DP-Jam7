@@ -2,7 +2,7 @@
 	"pack": {
 		"pack_format": 10,
 		"description": [
-			{"text": "Warden Expansion ", "color":"dark_purple", "italic": true, "underlined": true},
+			{"text": "Warden Experience ", "color":"dark_purple", "italic": true, "underlined": true},
 			{"text": "Datapack", "color": "gold", "italic": true, "underlined": false}
 		]
 	}

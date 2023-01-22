@@ -1,3 +1,4 @@
 {
-	"this.is.an": "warden_exp"
+	"warden_exp.text.load": "Warden Experience loaded",
+	"warden_exp.text.warden_warning": "Run Away!"
 }

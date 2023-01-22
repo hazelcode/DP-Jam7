@@ -1,1 +1,1 @@
-tellraw @a {"text":"Warden Expansion loaded","color": "black"}
+tellraw @a {"translate": "warden_exp.text.load","color": "dark_purple"}
