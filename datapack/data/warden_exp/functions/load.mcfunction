@@ -1,0 +1,1 @@
+tellraw @a {"text":"Warden Expansion loaded","color": "black"}

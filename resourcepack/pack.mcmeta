@@ -1,0 +1,9 @@
+{
+	"pack": {
+		"pack_format": 9,
+		"description": [
+			{"text": "Warden Expansion ", "color":"dark_purple", "italic": true, "underlined": true},
+			{"text": "Resource Pack", "color": "aqua", "italic": true, "underlined": false}
+		]
+	}
+}
