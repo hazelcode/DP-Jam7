@@ -1,0 +1,43 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:iron_sword"
+      },
+      "title": {
+        "translate": "warden_exp.advancement.strength_challenge.title"
+      },
+      "description": {
+        "translate": "warden_exp.advancement.strength_challenge.desc"
+      },
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "warden_exp:battle_tendency",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:player_killed_entity",
+        "conditions": {
+          "player": {
+            "equipment": {
+              "mainhand": {
+                "items": [
+                  "minecraft:iron_sword"
+                ]
+              }
+            }
+          },
+          "entity": {
+            "type": "minecraft:warden",
+            "effects": {
+              "minecraft:strength": {}
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "warden_exp:you_are_insane"
+    }
+  }
+  

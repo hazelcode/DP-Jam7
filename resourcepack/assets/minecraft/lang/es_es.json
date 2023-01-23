@@ -1,4 +1,14 @@
 {
 	"warden_exp.text.load": "Warden Experience cargado",
-	"warden_exp.text.warden_warning": "¡Corre!"
+	"warden_exp.text.warden_warning": "¡Corre!",
+	"warden_exp.advancement.root.desc": "¡La profundidad oscura espera por vosotros!",
+	"warden_exp.advancement.battle_tendency.title": "Tendencia de batalla",
+	"warden_exp.advancement.battle_tendency.desc": "¡Ataca a un Warden!",
+	"warden_exp.advancement.diamond_is_unbreakable.title": "El diamante es irrompible",
+	"warden_exp.advancement.diamond_is_unbreakable.desc": "Sé atacado por un Warden usando una armadura de diamante",
+	"warden_exp.advancement.diamond_is_legendary.title": "EL DIAMANTE ES LEGENDARIO",
+	"warden_exp.advancement.diamond_is_legendary.desc": "¡Derrota a UN JODIDO WARDEN equipado únicamente con armadura de diamante!",
+	"warden_exp.advancement.strength_challenge.title": "Reto de Fuerza",
+	"warden_exp.advancement.strength_challenge.desc": "Tírale una botella de fuerza a un warden y derrotalo con una espada de hierro",
+	"warden_exp.text.strength_challenge_reward": "ESTÁS DEMENTE"
 }

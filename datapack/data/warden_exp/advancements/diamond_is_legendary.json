@@ -1,0 +1,59 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:diamond_chestplate"
+      },
+      "title": {
+        "translate": "warden_exp.advancement.diamond_is_legendary.title"
+      },
+      "description": {
+        "translate": "warden_exp.advancement.diamond_is_legendary.desc"
+      },
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "warden_exp:diamond_is_unbreakable",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:player_killed_entity",
+        "conditions": {
+          "player": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type": "minecraft:player",
+                "equipment": {
+                  "head": {
+                    "items": [
+                      "minecraft:diamond_helmet"
+                    ]
+                  },
+                  "chest": {
+                    "items": [
+                      "minecraft:diamond_chestplate"
+                    ]
+                  },
+                  "legs": {
+                    "items": [
+                      "minecraft:diamond_leggings"
+                    ]
+                  },
+                  "feet": {
+                    "items": [
+                      "minecraft:diamond_boots"
+                    ]
+                  }
+                }
+              }
+            }
+          ],
+          "entity": {
+            "type": "minecraft:warden"
+          }
+        }
+      }
+    }
+  }
+  

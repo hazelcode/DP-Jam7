@@ -1,4 +1,14 @@
 {
 	"warden_exp.text.load": "Warden Experience loaded",
-	"warden_exp.text.warden_warning": "Run Away!"
+	"warden_exp.text.warden_warning": "Run Away!",
+	"warden_exp.advancement.root.desc": "The Deep Dark Waits For You!",
+	"warden_exp.advancement.battle_tendency.title": "Battle Tendency",
+	"warden_exp.advancement.battle_tendency.desc": "Attack a Warden!",
+	"warden_exp.advancement.diamond_is_unbreakable.title": "Diamond is Unbreakable",
+	"warden_exp.advancement.diamond_is_unbreakable.desc": "Get attacked by a Warden wearing a Diamond Armor",
+	"warden_exp.advancement.diamond_is_legendary.title": "DIAMOND IS LEGENDARY",
+	"warden_exp.advancement.diamond_is_legendary.desc": "Defeat A FUCKING WARDEN wearing only Diamond Armor!",
+	"warden_exp.advancement.strength_challenge.title": "Strength Challenge",
+	"warden_exp.advancement.strength_challenge.desc": "Throw a bottle of strength at a warden and defeat him with an iron sword",
+	"warden_exp.text.strength_challenge_reward": "YOU ARE INSANE"
 }
