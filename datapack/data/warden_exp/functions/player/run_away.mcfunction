@@ -1,1 +1,1 @@
-title @s actionbar {"translate": "warden_exp.text.warden_warning"}
+title @s actionbar {"translate": "warden_exp.text.warden_warning", "color": "red"}
