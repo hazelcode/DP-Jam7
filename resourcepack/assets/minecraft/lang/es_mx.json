@@ -10,5 +10,7 @@
 	"warden_exp.advancement.diamond_is_legendary.desc": "¡Derrota a UN MALDITO WARDEN equipado únicamente con armadura de diamante!",
 	"warden_exp.advancement.strength_challenge.title": "Reto de Fuerza",
 	"warden_exp.advancement.strength_challenge.desc": "Tírale una botella de fuerza a un warden y derrotalo con una espada de hierro",
-	"warden_exp.text.strength_challenge_reward": "ESTÁS LOCO"
+	"warden_exp.text.strength_challenge_reward": "ESTÁS LOCO",
+	"warden_exp.item.sword_of_the_vision": "Espada de la visión",
+	"warden_exp.item.warden_sword": "Espada de Warden"
 }

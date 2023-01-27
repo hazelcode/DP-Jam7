@@ -1,2 +1,3 @@
 execute as @s[predicate=warden_exp:deep_dark] run function warden_exp:deep_dark/warden_nearby
 execute as @s[predicate=warden_exp:player_looking_at_warden] run function warden_exp:player/run_away
+execute as @s if entity @s[advancements={warden_exp:battle_tendency=true,warden_exp:diamond_is_unbreakable=true,warden_exp:diamond_is_legendary=true,warden_exp:strength_challenge=true}] unless score @s warden_exp.all_unlocked matches 1 run function warden_exp:player/challenge_complete

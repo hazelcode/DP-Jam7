@@ -10,5 +10,7 @@
 	"warden_exp.advancement.diamond_is_legendary.desc": "Defeat A FUCKING WARDEN wearing only Diamond Armor!",
 	"warden_exp.advancement.strength_challenge.title": "Strength Challenge",
 	"warden_exp.advancement.strength_challenge.desc": "Throw a bottle of strength at a warden and defeat him with an iron sword",
-	"warden_exp.text.strength_challenge_reward": "YOU ARE INSANE"
+	"warden_exp.text.strength_challenge_reward": "YOU ARE INSANE",
+	"warden_exp.item.sword_of_the_vision": "Sword of the Vision",
+	"warden_exp.item.warden_sword": "Warden Sword"
 }
