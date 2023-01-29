@@ -1,0 +1,24 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:player_hurt_entity",
+        "conditions": {
+          "player": {
+            "type": "minecraft:player",
+            "equipment": {
+              "mainhand": {
+                "items": [
+                  "minecraft:netherite_sword"
+                ],
+                "nbt": "{warden_exp:{\"item\":\"sword_of_the_vision\"}}"
+              }
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "warden_exp:player/sword_of_the_vision"
+    }
+  }
+  
