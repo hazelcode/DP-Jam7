@@ -10,7 +10,7 @@
                 "items": [
                   "minecraft:netherite_sword"
                 ],
-                "nbt": "{warden_exp:{\"item\":\"sword_of_the_vision\"}}"
+                "nbt": "{warden_exp:{item:\"sword_of_the_vision\"}}"
               }
             }
           }
